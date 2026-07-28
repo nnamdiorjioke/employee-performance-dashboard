@@ -3,7 +3,7 @@
 An interactive sales performance dashboard built with Python, Streamlit, and Plotly.
 
 ## What it does
-Upload your sales team's CSV data to instantly generate KPI metrics, regional breakdowns, and attainment tracking. Features dynamic filtering, automated profit and margin calculations, and sample datasets to try it out.
+Upload your sales team's CSV data to instantly generate KPI metrics, regional breakdowns, and attainment tracking. Features dynamic filtering, financial modeling, automated profit and margin calculations, and sample datasets to try it out.
 
 ## Tech Stack
 - Python
