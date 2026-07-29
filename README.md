@@ -17,7 +17,7 @@ Upload your sales team's CSV data to instantly generate KPI metrics, regional br
 3. Explore the metrics and charts
 
 ## Live Demo
-[Click here to view the app](your streamlit URL here)
+(https://employee-performance-dashboard-nnamdi-orjioke.streamlit.app/)
 
 ## Required CSV columns
 - Employee
